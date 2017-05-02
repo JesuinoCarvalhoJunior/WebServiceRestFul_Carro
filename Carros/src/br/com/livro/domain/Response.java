@@ -1,6 +1,6 @@
 package br.com.livro.domain;
 
-/*Classe para retorno de ao excluir registro*/
+/*Classe para retorno de ao excluir registrob-----*/
 public class Response {
 	private String status;
 	private String msg;
